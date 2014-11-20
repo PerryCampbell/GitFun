@@ -8,3 +8,5 @@ Test Branch Addition
 New Stuff 2 =)
 
 New Stuff 1
+
+Clone 3
