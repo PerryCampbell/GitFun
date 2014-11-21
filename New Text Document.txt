@@ -6,4 +6,7 @@ Function {
 
 Foo {
 	More stuff
+
+Foo2 {
+	Other stuff.
 }
