@@ -1,1 +1,9 @@
 Clean.
+
+Function {
+	Stuff
+}
+
+Foo {
+	More stuff
+}
