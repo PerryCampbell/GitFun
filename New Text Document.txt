@@ -1,1 +1,5 @@
 Clean.
+
+Foo2 {
+	Other stuff.
+}
