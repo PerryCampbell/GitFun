@@ -12,3 +12,5 @@ Foo2 {
 }
 
 Foo3!
+
+All of the foos.
