@@ -10,3 +10,5 @@ Foo {
 Foo2 {
 	Other stuff.
 }
+
+Foo3!
