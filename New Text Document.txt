@@ -1,16 +1,1 @@
 Clean.
-
-Function {
-	Stuff
-}
-
-Foo {
-	More stuff
-
-Foo2 {
-	Other stuff.
-}
-
-Foo3!
-
-All of the foos.
